@@ -1,0 +1,18 @@
+{
+  "name": "arc4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tugas4.js",
+  "scripts": {
+    "devStart": "nodemon tugas4.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
